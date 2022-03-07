@@ -1,5 +1,5 @@
 EFI-OC-Dell-E7440-Catalina - OpenCore
-Hackintosh Catalina 10.15.7(19H2)- OpenCore 0.6.5
+Hackintosh Catalina 10.15.7(19H2)- OpenCore 0.7.8
 System
 Dell E7440 i5 4310U
 Intel HD 4400
